@@ -1,0 +1,1 @@
+Aprendí a crear y manejar issues en github y a usar MCP.
