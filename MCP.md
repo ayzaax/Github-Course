@@ -1,0 +1,1 @@
+Un MCP nos ayuda a conectarnos a herramientas externas como en este caso a Github, accediendo a nuestro perfil, repos y etc desde VS code.
